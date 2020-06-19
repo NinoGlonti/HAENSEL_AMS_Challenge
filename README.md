@@ -1,5 +1,5 @@
 # Haensel_AMS_challenge
-Recruitment_frontend_challenge
+Recruitment frontend challenge
 
 # Create Web-UI for Histogram 
 * Bootstrap
