@@ -1,0 +1,23 @@
+{
+  "name": "haenselamschallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinoGlonti/Haensel_AMS_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinoGlonti/Haensel_AMS_challenge/issues"
+  },
+  "homepage": "https:///NinoGlonti.github.io/Haensel_AMS_challenge",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
